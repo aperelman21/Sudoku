@@ -9,7 +9,7 @@
 * [Contacto](#contacto)
 
 ## Información general
-Add more general information about project. What the purpose of the project is? Motivation?
+E
 
 ## Ejecución del proyecto
 ![Example screenshot](./img/screenshot.png)
