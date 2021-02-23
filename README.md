@@ -15,6 +15,19 @@ Desarrollé este proyecto para la clase de Estructuras de Datos en el ITAM. El p
 
 ## Ejecución del proyecto
 Para ejecutar el proyecto necesitas un IDE como [Netbeans](https://netbeans.org/) o [Eclipse](https://www.eclipse.org/) que pueda correr programas escritos en Java.  Una vez dentro del IDE, puedes seguir los siguientes pasos:
+1. Crea un nuevo proyecto con el nombre de tu preferencia.
+2. Dentro del proyecto copia y pega los siguientes archivos del repositorio:
+    * `ConjADT.java`
+    * `ConjuntoA.java`
+    * `InterfazSudoku.java`
+    * `IteradorArreglo.java`
+3. Corre el archivo `InterfazSudoku.java` y debe aparecer la siguiente pantalla:
+
+![SudokuVista](./imagenes/sudokuVista.PNG)
+5. Para editar el tablero, haz dobleclick en cualquier casilla e inserta un valor con tu teclado.
+6. Para resolver el tablero, haz click en el boton 'resuelve' 
+7. Para restaurar el tablero, haz click en el boton 'limpia'
+
 
 ## Reglas de sudoku
 * Tech 1 - version 1.0
