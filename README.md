@@ -5,7 +5,7 @@
 * [Información general](#información-general)
 * [Ejecución del proyecto](#ejecución-del-proyecto)
 * [Reglas de Sudoku](#reglas-de-sudoku)
-* [Implementación de conjuntos](#conjuntos)
+* [Implementación de conjuntos](#implementación-de-conjuntos)
 * [Contacto](#contacto)
 
 ## Información general
@@ -24,15 +24,18 @@ Para ejecutar el proyecto necesitas un IDE como [Netbeans](https://netbeans.org/
 3. Corre el archivo `InterfazSudoku.java` y debe aparecer la siguiente pantalla:
 
 ![SudokuVista](./imagenes/sudokuVista.PNG)
-5. Para editar el tablero, haz dobleclick en cualquier casilla e inserta un valor con tu teclado.
+
+5. Para editar el tablero, haz dobleclick en cualquier casilla e inserta un valor con tu teclado. El valor 0 indica que la casilla esta vacía.
 6. Para resolver el tablero, haz click en el boton 'resuelve' 
 7. Para restaurar el tablero, haz click en el boton 'limpia'
 
 
 ## Reglas de sudoku
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+El sudoku esta compuesto por un tablero de 9x9. Podemos dividirlo en columnas, filas o regiones de 3x3 como aparece a continuación:
+
+
+
+## Implementacion de conjuntos
 
 ## Contacto
 Creado por [@aperelman21](https://www.flynerd.pl/) - feel free to contact me!
