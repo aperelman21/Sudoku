@@ -41,8 +41,10 @@ Para resolver un sudoku, cada casilla vacía se tiene que completar con un solo 
 * En una misma región de 3x3 no puede haber números repetidos
 
 
-## Implementacion de conjuntos
+## Implementación de conjuntos
+La principal estructura de datos utilizada en este proyecto es el conjunto. Un conjunto es una colección de elementos. Por ejemplo un conjunto A se puede definir como A = {1,2,3,4,5}. La funcionalidad que tienen los conjuntos en esta implementación es bastante básica. Se puede agregar o eliminar un elemento a un conjunto. Se puede checar si un conjunto contiene un cierto elemento y calcular cuantos elementos hay en un conjunto (esto se conoce como la cardinalidad del conjunto). Finalmente, se pueden aplicar las operaciones de unión, intersección y diferencia entre dos conjuntos. Estas tres últimas operaciones están ejemplificadas con los siguientes diagramas de Venn:
 
+![conjuntos](./imagenes/conjuntos.png)
 
 ## Contacto
-Creado por [@aperelman21](https://www.flynerd.pl/) - feel free to contact me!
+Creado por [@aperelman21](https://github.com/aperelman21/)
