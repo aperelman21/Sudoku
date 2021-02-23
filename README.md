@@ -31,11 +31,18 @@ Para ejecutar el proyecto necesitas un IDE como [Netbeans](https://netbeans.org/
 
 
 ## Reglas de sudoku
-El sudoku esta compuesto por un tablero de 9x9. Podemos dividirlo en columnas, filas o regiones de 3x3 como aparece a continuación:
+El sudoku está compuesto por un tablero de 9x9. Podemos dividirlo en columnas (verde), filas (rojo) y regiones de 3x3 (azul) como aparece a continuación:
 
+![sudoku-rules](./imagenes/sudoku-rules.png)
+
+Para resolver un sudoku, cada casilla vacía se tiene que completar con un solo número del 1 al 9. Para llenar las casillas se tienen que seguir estas tres reglas:
+* En una misma fila no puede haber números repetidos
+* En una misma columna no puede haber números repetidos
+* En una misma región de 3x3 no puede haber números repetidos
 
 
 ## Implementacion de conjuntos
+
 
 ## Contacto
 Creado por [@aperelman21](https://www.flynerd.pl/) - feel free to contact me!
