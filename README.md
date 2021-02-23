@@ -10,10 +10,11 @@
 
 ## Información general
 Desarrollé este proyecto para la clase de Estructuras de Datos en el ITAM. El propósito era poner en práctica los temas de recursión, herencia y conjuntos para desarrollar una solución al rompecabezas conocido como sudoku. Cada fila, columna y región del sudoku está representada por un conjunto dentro del programa. Se utiliza la función recursiva resuelve(int renglón, int columna) para recorrer el tablero y tratar de encontrar una solución. Puede ocurrir que el tablero ingresado por el usuario no tenga solución. En dado caso que no se pueda resolver, el programa avisa al usuario por medio de un MessageDialog. 
-![MessageDialog](./imagenes/MessageDialog.png)
+
+![MessageDialog](./imagenes/MessageDialog.PNG)
 
 ## Ejecución del proyecto
-![Example screenshot](./img/screenshot.png)
+Para ejecutar el proyecto necesitas un IDE como [Netbeans](https://netbeans.org/) o [Eclipse](https://www.eclipse.org/) que pueda correr programas escritos en Java.  Una vez dentro del IDE, puedes seguir los siguientes pasos:
 
 ## Reglas de sudoku
 * Tech 1 - version 1.0
